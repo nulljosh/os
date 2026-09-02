@@ -2,8 +2,7 @@
 
 **v0** | September 2026
 
-A small x86 kernel written from scratch. It boots in QEMU and drops you at a
-shell prompt.
+A kernel. A small one, from nothing. It boots in QEMU and drops you at a prompt.
 
 ## Scope
 
