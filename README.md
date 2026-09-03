@@ -32,3 +32,7 @@ protected mode with no paging and never installs an interrupt table. The keyboar
 is polled on port `0x60`. `time` reads the CMOS clock instead of counting ticks.
 That trades a background tick for about a hundred fewer lines. Long mode, an IDT
 and paging arrive when something has to run while the shell waits for a key.
+
+## License
+
+MIT 2026, Joshua Trommel
